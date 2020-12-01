@@ -1,2 +1,2 @@
-# CarRacing1.0
-CarRacing1.0 on Visual Studio Code.
+# CarRacingGame1.0
+Car Racing Game Stage 1.0
